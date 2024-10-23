@@ -1,10 +1,11 @@
 body {
+    border: solid 3cap rgb(10, 74, 158)
     color: rgb(25, 9, 167);
     background: black
-    margin: 9PX;
+    margin: 0PX;
 }
 header {
-    border-bottom: solid 2px rgb(42, 122, 228);
+    border-bottom: solid 2px rgb(10, 74, 158);
     padding: 20px;
     font-size: 32px;
     color: rgb(5, 66, 146);
